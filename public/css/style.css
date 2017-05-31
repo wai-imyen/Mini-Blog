@@ -1,0 +1,137 @@
+
+
+
+body{
+
+	font-family:"微軟正黑體",sans-serif;
+	font-size: 12pt;
+}
+
+footer span{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-size: 10pt;
+}
+
+nav{
+
+	font-size: 13pt;
+}
+
+.table{
+	margin-top: 3.5em;
+
+}
+
+tr{
+
+	line-height: 1000px;
+}
+
+label{
+
+	margin-top: 1em
+}
+
+.login label,.register label{
+	margin-top:0;
+}
+
+.login, .register{
+	font-size: 10pt;
+}
+
+label.radio-inline{
+	margin-top: 0em;
+	margin-left: 0.5em;
+}
+
+
+
+#submit.btn{
+	margin: 1em 0em 1em 0em;
+}
+
+#show_btn{
+	margin: 0em 0em 0em 1em;
+}
+
+pre {
+	margin: 0;
+	padding: 1em;
+	border: 1px ;
+	background: white;
+	color: black;
+	line-height: 2em;
+	font-family: sans-serif;
+	font-size: 11pt;
+}
+
+.title{
+
+	font-size: 16pt;
+	font-weight: 900;
+}
+
+.panel-heading{
+
+	height: 60px;
+}
+
+.panel-body{
+
+	line-height: 2em;
+}
+.articleIndexTitle{
+
+	font-size: 14pt;
+	font-weight: 900;
+}
+
+#read{
+
+	font-size: 10pt;
+}
+/*.navbar{
+
+	background-color:#6b8eb2;
+	border: 0;
+}
+*/
+
+#video_category_img{
+
+	height: 200px;
+	width: auto;
+}
+
+#table_video{
+
+	margin-top: 0px;
+}
+
+#vc_content{
+	margin-top: -8px;
+	margin-left: 10px;
+}
+
+#video_ca_pic{
+	margin-top: 30px;
+}
+.pagination{
+
+	margin-bottom: -15px;
+	margin-top: -10px;
+}
+
+.panel-info{
+	
+}
+
+.video img{
+
+	margin-bottom: 10px;
+}
+
+
